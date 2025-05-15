@@ -40,5 +40,5 @@ A modern, responsive expense tracking web application built with **React**, **Ty
 ### Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/project-bolt.git
-cd project-bolt
+git clone https://github.com/muthu-p29/Expense_Tracker.git
+cd Expense_Tracker
